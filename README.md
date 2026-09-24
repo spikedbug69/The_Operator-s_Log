@@ -4,4 +4,5 @@
 
 **So this repo also show as a proof as the work i have done throught. Somedays might be to relearn old concepts**
 ___
-    ## Day 1 --> [Document][https://]
+## Day 1 -->
+     [Document][[https://](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=zenich+terminal&authuser=1&hl=en)]
