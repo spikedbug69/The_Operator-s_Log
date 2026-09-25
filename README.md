@@ -28,22 +28,6 @@ Activities can include:
 6. Document failed attempts too.
 7. Only test authorized targets.
 
-### Daily Scorecard
-
-| Requirement         | Done |
-| ------------------- | ---- |
-| ≥ 60 minutes        | ⬜    |
-| Practical task      | ⬜    |
-| Learning outcome    | ⬜    |
-| Daily documentation | ⬜    |
-| Proof of work       | ⬜    |
-
-**Status:**
-✅ Complete — all requirements met
-⚠️ Incomplete — work done, requirements not fully met
-❌ Missed — no qualifying work
-
----
 
 # Long-Term Objectives
 
@@ -107,9 +91,14 @@ Work through vulnerabilities and labs covering areas such as:
 * Deserialization
 * WebSockets
 * HTTP Request Smuggling
+<<<<<<< HEAD
     
 ---
 
+=======
+
+---
+>>>>>>> 7e444c1b531ebc1a8171f9024fa19ccebd043379
 # Daily Logs
 
 Each day has its own directory:
@@ -184,7 +173,7 @@ A day does **not** require an exploit. Research, networking, development, or a d
 
 ---
 
-# Topics Covered
+# Topics to be Covered
 
 ### Networking
 
