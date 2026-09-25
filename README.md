@@ -107,17 +107,7 @@ Work through vulnerabilities and labs covering areas such as:
 * Deserialization
 * WebSockets
 * HTTP Request Smuggling
-
----
-
-# Progress
-
-| Day   | Date        | Activity | Topic | Time | Status |
-| ----- | ----------- | -------- | ----- | ---: | ------ |
-| Day 1 | 24 Sep 2026 | —        | —     |    — | ⬜      |
-| Day 2 | 25 Sep 2026 | —        | —     |    — | ⬜      |
-| Day 3 | 26 Sep 2026 | —        | —     |    — | ⬜      |
-
+    
 ---
 
 # Daily Logs

@@ -1,0 +1,116 @@
+nmap 10.1.239.112 -p- -sCV -v -oN 1.txt --min-rate 1000
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-09-25 14:26 -0400
+NSE: Loaded 158 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 14:26
+Completed NSE at 14:26, 0.00s elapsed
+Initiating NSE at 14:26
+Completed NSE at 14:26, 0.00s elapsed
+Initiating NSE at 14:26
+Completed NSE at 14:26, 0.00s elapsed
+Initiating Ping Scan at 14:26
+Scanning 10.1.239.112 [4 ports]
+Completed Ping Scan at 14:26, 0.33s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 14:26
+Completed Parallel DNS resolution of 1 host. at 14:26, 0.50s elapsed
+Initiating SYN Stealth Scan at 14:26
+Scanning 10.1.239.112 [65535 ports]
+Discovered open port 111/tcp on 10.1.239.112
+Discovered open port 139/tcp on 10.1.239.112
+Discovered open port 445/tcp on 10.1.239.112
+Discovered open port 22/tcp on 10.1.239.112
+Increasing send delay for 10.1.239.112 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 44315/tcp on 10.1.239.112
+Increasing send delay for 10.1.239.112 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 389/tcp on 10.1.239.112
+SYN Stealth Scan Timing: About 39.49% done; ETC: 14:27 (0:00:47 remaining)
+Discovered open port 33563/tcp on 10.1.239.112
+Discovered open port 2049/tcp on 10.1.239.112
+Increasing send delay for 10.1.239.112 from 10 to 20 due to max_successful_tryno increase to 6
+Discovered open port 41163/tcp on 10.1.239.112
+Discovered open port 54657/tcp on 10.1.239.112
+Discovered open port 59065/tcp on 10.1.239.112
+Increasing send delay for 10.1.239.112 from 20 to 40 due to max_successful_tryno increase to 7
+Increasing send delay for 10.1.239.112 from 40 to 80 due to max_successful_tryno increase to 8
+Completed SYN Stealth Scan at 14:27, 80.65s elapsed (65535 total ports)
+Initiating Service scan at 14:27
+Scanning 11 services on 10.1.239.112
+Completed Service scan at 14:28, 15.24s elapsed (11 services on 1 host)
+NSE: Script scanning 10.1.239.112.
+Initiating NSE at 14:28
+Completed NSE at 14:28, 14.84s elapsed
+Initiating NSE at 14:28
+Completed NSE at 14:28, 4.04s elapsed
+Initiating NSE at 14:28
+Completed NSE at 14:28, 0.00s elapsed
+Nmap scan report for 10.1.239.112
+Host is up (0.30s latency).
+Not shown: 65524 closed tcp ports (reset)
+PORT      STATE SERVICE     VERSION
+22/tcp    open  ssh         OpenSSH 9.6p1 Ubuntu 3ubuntu13.18 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 a1:50:1d:04:de:66:51:74:29:2d:8e:87:af:5d:7d:17 (ECDSA)
+|_  256 4a:db:47:8c:fa:61:66:2e:22:e5:df:da:bb:b3:ce:c5 (ED25519)
+111/tcp   open  rpcbind     2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  3,4          111/tcp6  rpcbind
+|   100000  3,4          111/udp6  rpcbind
+|   100003  3,4         2049/tcp   nfs
+|   100003  3,4         2049/tcp6  nfs
+|   100005  1,2,3      34385/tcp6  mountd
+|   100005  1,2,3      39122/udp6  mountd
+|   100005  1,2,3      48871/udp   mountd
+|   100005  1,2,3      54657/tcp   mountd
+|   100021  1,3,4      40653/tcp6  nlockmgr
+|   100021  1,3,4      41163/tcp   nlockmgr
+|   100021  1,3,4      41207/udp6  nlockmgr
+|   100021  1,3,4      59821/udp   nlockmgr
+|   100024  1          39012/udp   status
+|   100024  1          52289/tcp6  status
+|   100024  1          54355/udp6  status
+|   100024  1          59065/tcp   status
+|   100227  3           2049/tcp   nfs_acl
+|_  100227  3           2049/tcp6  nfs_acl
+139/tcp   open  netbios-ssn Samba smbd 4
+389/tcp   open  ldap        OpenLDAP 2.2.X - 2.3.X
+445/tcp   open  netbios-ssn Samba smbd 4
+2049/tcp  open  nfs_acl     3 (RPC #100227)
+33563/tcp open  mountd      1-3 (RPC #100005)
+41163/tcp open  nlockmgr    1-4 (RPC #100021)
+44315/tcp open  mountd      1-3 (RPC #100005)
+54657/tcp open  mountd      1-3 (RPC #100005)
+59065/tcp open  status      1 (RPC #100024)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+|_clock-skew: -2s
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled but not required
+| nbstat: NetBIOS name: WALNUT, NetBIOS user: <unknown>, NetBIOS MAC: <unknown> (unknown)
+| Names:
+|   WALNUT<00>           Flags: <unique><active>
+|   WALNUT<03>           Flags: <unique><active>
+|   WALNUT<20>           Flags: <unique><active>
+|   \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|   WORKGROUP<1d>        Flags: <unique><active>
+|_  WORKGROUP<1e>        Flags: <group><active>
+| smb2-time: 
+|   date: 2026-09-25T18:28:06
+|_  start_date: N/A
+
+NSE: Script Post-scanning.
+Initiating NSE at 14:28
+Completed NSE at 14:28, 0.00s elapsed
+Initiating NSE at 14:28
+Completed NSE at 14:28, 0.00s elapsed
+Initiating NSE at 14:28
+Completed NSE at 14:28, 0.00s elapsed
+Read data files from: /usr/share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 116.54 seconds
+           Raw packets sent: 79401 (3.494MB) | Rcvd: 71217 (2.849MB)
