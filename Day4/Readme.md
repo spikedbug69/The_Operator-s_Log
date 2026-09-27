@@ -14,22 +14,14 @@ So regarding this ova file as mentioned before I was supposed to take a hande-on
 
 ## Objective
 
-Exploit the machine mr_robot.ova
+Exploit the machine **mr_robot.ova** <br>
+**Date Release: 28 Jun 2016** <br> **Author: Leon Johnson**<br>**Difficulty: Easy**<br>
 
 ---
 
 ## What I Did
 
-Describe what actually happened.
-
-Include:
-- Commands
-- Experiments
-- Labs
-- Things you tried
-- Things that worked
-- Things that didn't work
-- Links to useful resources
+So this task was one of the most dopomine filled machines I've done as it was filled with reffernce to the show from the begining and was really intersting
 
 ---
 
@@ -44,22 +36,10 @@ This can be something completely new or simply a better understanding of somethi
 ## Tools Used
 
 - Nmap
-- Nxc
+- Netdiscover
 - Burp Suite
-- etc.
-
----
-
-## Challenges
-
-What got in the way?
-
-This can include:
-- Technical problems
-- Lack of time
-- Lack of understanding
-- Failed approaches
-- External circumstances
+- Hydra
+- 
 
 ---
 
@@ -71,17 +51,17 @@ Screenshots, scan results, code, files, commands, reports, etc.
 
 ## Resources
 
-- [Resource name](link)
-- [Resource name](link)
+- [yt_video](https://youtu.be/vKP-0i3II4Y)
+- [medium_post](https://medium.com/@bakmietunggu/vulnhubs-mr-robot-1-a-walkthrough-designed-for-beginners-0df122b3e730?sharedUserId=ajay9nambiar)
 
 ---
 
 ## Metrics
 
-- **Time spent:** XX minutes
-- **Task:** Complete / Attempted
-- **Learning:** <what was learned>
-- **Proof:** <file/link>
-- **Status:** ✅ Complete / ⚠️ Incomplete / ❌ Missed
+- **Time spent:** 1hr
+- **Status:** ✅ Complete 
 
 ## Fututre tasks
+If you check there is a git_pull.txt file (***Note : it will be deleted after finding about its details***) so those are the changes in the repo done my the mebers find what they are and perform approproate actions
+
+My tryhackme account is so legit fraud I'm jsut doing 1 question per day of a task to keep the streak going in it so do a good time consuming brain teasing task tommorow

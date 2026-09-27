@@ -1,0 +1,35 @@
+~/Vulnerability-Checker-Web-App (main)
+$ git pull
+
+remote: Enumerating objects: 47, done.
+remote: Counting objects: 100% (47/47), done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 47 (delta 26), reused 47 (delta 26), pack-reused 0 (from 0)
+Unpacking objects: 100% (47/47), 5.67 KiB | 15.00 KiB/s, done.
+From https://github.com/project101ofsec/Vulnerability-Checker-Web-App
+   1bf0a70..c45709f  main                    -> origin/main
+   52ca54b..760685b  feature/backend_dev_sub -> origin/feature/backend_dev_sub
+Updating 1bf0a70..c45709f
+Fast-forward
+ Dockerfile              | 44 --------------------------------------------
+ README.md               |  4 ++--
+ backend/.dockerignore   |  3 +++
+ backend/Dockerfile      | 12 ++++++++++++
+ docker-compose.yml      | 45 +++++++++++++++++++++++++++++++++++++++++++++
+ frontend/.dockerignore  |  4 ++++
+ frontend/index.html     |  4 +++-
+ frontend/vite.config.js | 11 +++++++++++
+ scanner/.dockerignore   |  5 +++++
+ scanner/Dockerfile      | 28 ++++++++++++++++++++++++++++
+ scanner/scan.py         |  5 ++---
+ start.sh                |  7 -------
+ 12 files changed, 115 insertions(+), 57 deletions(-)
+ delete mode 100644 Dockerfile
+ create mode 100644 backend/.dockerignore
+ create mode 100644 backend/Dockerfile
+ create mode 100644 docker-compose.yml
+ create mode 100644 frontend/.dockerignore
+ create mode 100644 frontend/vite.config.js
+ create mode 100644 scanner/.dockerignore
+ create mode 100644 scanner/Dockerfile
+ delete mode 100644 start.s
