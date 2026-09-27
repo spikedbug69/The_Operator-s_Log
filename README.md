@@ -2,7 +2,13 @@
 
 **Start Date:** 24 September 2026
 
-Build consistency in cybersecurity and penetration testing by doing meaningful security work every day. This repository documents the work and acts as proof of progress.
+This is my personal daily cybersecurity journal and penetration-testing challenge.The purpose of this repository is to document my journey of learning cybersecurity consistently, one day at a time.
+
+The entries are not limited to technical work. They are a record of what each day was actually like — what I planned to do, what happened during the day, personal circumstances that affected my work, things I struggled with, things I learned, and whatever practical security work I managed to accomplish.
+
+Some days might contain a full penetration-testing lab. Other days might contain nothing more than a few scans, a chapter from a book, a networking exercise, or a failed attempt.
+
+Some days I might be tired, busy, distracted, or dealing with other things. Those days are part of the journey too, and they will be documented rather than hidden.
 
 Activities can include:
 
@@ -33,72 +39,17 @@ Activities can include:
 
 ### 1. Custom Web Crawler
 
-Build a personal crawler for reconnaissance and security testing.
-
-Focus areas:
-
-* URL/endpoint discovery
-* JavaScript analysis
-* Parameter discovery
-* Scope filtering
-* Response analysis
-
 ### 2. CVB Model
-
-Research and build the **CVB model** as a personal project.
 
 ### 3. Networking
 
-Strengthen:
-
-* TCP/IP & OSI
-* TCP/UDP
-* DNS/DHCP
-* HTTP/HTTPS
-* Routing & NAT
-* Subnetting
-* IPv4/IPv6
-* Firewalls & proxies
-* Packet analysis
-* Network enumeration
-
 ### 4. Penetration Testing Book
-
-Work through **Penetration Testing: A Hands-On Introduction to Hacking — Georgia Weidman**.
-
-**Read → Understand → Reproduce → Experiment → Document**
-
+ **Penetration Testing: A Hands-On Introduction to Hacking — Georgia Weidman**.
 ### 5. CPENT
-
-Research CPENT requirements, exam structure, domains, practical skills, labs, reporting, and preparation.
 
 ### 6. PortSwigger
 
-Work through vulnerabilities and labs covering areas such as:
 
-* Authentication
-* Access Control
-* SQLi
-* XSS
-* CSRF
-* SSRF
-* XXE
-* API Security
-* File Upload
-* Command Injection
-* JWT / OAuth
-* Race Conditions
-* Deserialization
-* WebSockets
-* HTTP Request Smuggling
-<<<<<<< HEAD
-    
----
-
-=======
-
----
->>>>>>> 7e444c1b531ebc1a8171f9024fa19ccebd043379
 # Daily Logs
 
 Each day has its own directory:
@@ -115,48 +66,83 @@ Each day has its own directory:
 ### Daily Log Template
 
 ```markdown
-# Day X — Date
+# Day X — Date : DD/MM/YY
+
+## What Happened
+Write whatever context is relevant to the day.
+This can include:
+- Personal circumstances affecting the session
+- Why the session was short or long
+- What you were planning to do
+- What changed during the day
+- Anything worth remembering later
+---
 
 ## Objective
-What I planned to accomplish.
+What did I intend to do today?
+---
 
 ## What I Did
-- Task 1
-- Task 2
+Describe what actually happened.
+Include:
+- Commands
+- Experiments
+- Labs
+- Things you tried
+- Things that worked
+- Things that didn't work
+- Links to useful resources
+---
 
 ## What I Learned
-Key concepts and findings.
+What did I actually learn or reinforce today?
+This can be something completely new or simply a better understanding of something you already knew.
+---
 
 ## Tools Used
-- Tool 1
-- Tool 2
+- Nmap
+- Nxc
+- Burp Suite
+---
 
-## Challenges / Mistakes
-What failed and why.
+## Challenges
+What got in the way?
+This can include:
+- Technical problems
+- Lack of time
+- Lack of understanding
+- Failed approaches
+- External circumstances
+
+---
 
 ## Proof of Concept
-Screenshots, commands, code, output, etc.
+Screenshots, scan results, code, files, commands, reports, etc.
+---
 
 ## Resources
-- Labs
-- Blogs
-- Books
-- Documentation
+- [Resource name](link)
+- [Resource name](link)
+---
 
 ## Metrics
-- Time spent: XX minutes
-- Practical task: Complete / Attempted
-- Learning outcome: <concept>
-- Proof: <file/link>
-- Status: ✅ / ⚠️ / ❌
+- **Time spent:** XX minutes
+- **Task:** Complete / Attempted
+- **Learning:** <what was learned>
+- **Proof:** <file/link>
+- **Status:** ✅ Complete / ⚠️ Incomplete / ❌ Missed
+
+## Fututre tasks
+- this is for occassions whaer you plan to do a certain task for the next day
+- may be project work
+- research 
+- learning
 ```
 
 ---
 
 # Proof of Concept
-
 Proof can include:
-
 * Screenshots
 * Terminal output
 * Burp requests/responses
@@ -170,81 +156,20 @@ Proof can include:
 * Write-ups
 
 A day does **not** require an exploit. Research, networking, development, or a documented failed attempt can also qualify.
-
----
-
-# Topics to be Covered
-
-### Networking
-
-* [ ] TCP/IP
-* [ ] OSI
-* [ ] Subnetting
-* [ ] DNS
-* [ ] HTTP
-* [ ] Routing
-* [ ] IPv6
-* [ ] Packet Analysis
-
-### Recon
-
-* [ ] Passive Recon
-* [ ] Active Recon
-* [ ] Subdomain Enumeration
-* [ ] Endpoint Discovery
-* [ ] Technology Fingerprinting
-* [ ] Custom Crawler
-
-### Web Security
-
-* [ ] SQL Injection
-* [ ] XSS
-* [ ] CSRF
-* [ ] SSRF
-* [ ] XXE
-* [ ] Authentication
-* [ ] Access Control
-* [ ] JWT
-* [ ] OAuth
-* [ ] File Upload
-* [ ] Command Injection
-* [ ] Path Traversal
-* [ ] Race Conditions
-* [ ] HTTP Request Smuggling
-
-### Infrastructure
-
-* [ ] Linux
-* [ ] Windows
-* [ ] Active Directory
-* [ ] SMB
-* [ ] LDAP
-* [ ] Kerberos
-* [ ] Privilege Escalation
-
-### Tools
-
-* [ ] Burp Suite
-* [ ] Nmap
-* [ ] Wireshark
-* [ ] ffuf
-* [ ] Gobuster
-* [ ] Metasploit
-* [ ] Impacket
-* [ ] BloodHound
-
-### Methodology
-
-* [ ] Reconnaissance
-* [ ] Enumeration
-* [ ] Vulnerability Identification
-* [ ] Exploitation
-* [ ] Privilege Escalation
-* [ ] Post-Exploitation
-* [ ] Reporting
-
 ---
 
 ## Start
 
-**Day 1 — 24 September 2026 -->** [A](./Day1/)
+| Day | Date | Entry |
+|---|---|---|
+| **Day 1** | **24 September 2026** | [❎ Day 1](./Day1/) |
+| **Day 2** | **25 September 2026** | [❎ Day 2](./Day2/) |
+| **Day 3** | **26 September 2026** | [❎ Day 3](./Day3/) |
+| **Day 4** | **27 September 2026** | [❎ Day 4](./Day4/) |
+| **Day 5** | **28 September 2026** | [❎ Day 5](./Day5/) |
+| **Day 6** | **29 September 2026** | [❎ Day 6](./Day6/) |
+| **Day 7** | **30 September 2026** | [❎ Day 7](./Day7/) |
+| **Day 8** | **1 October 2026** | [❎ Day 8](./Day8/) |
+| **Day 9** | **2 October 2026** | [❎ Day 9](./Day9/) |
+| **Day 10** | **3 October 2026** | [❎ Day 10](./Day10/) |
+

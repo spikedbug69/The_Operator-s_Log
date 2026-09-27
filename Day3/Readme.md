@@ -13,17 +13,7 @@ So what i learned was to use this intersting tool called scout which scans the c
 Now there was not much challenge in it the vulnerablities are still not solved yet in the docker whic 
 
 ## Proof of Concept : 
+the file which is attached attached to this is the full report i got from using the scout tool
 
-
-## Resources
-- Labs
-- Blogs
-- Books
-- Documentation
-
-## Metrics
-- Time spent: XX minutes
-- Practical task: Complete / Attempted
-- Learning outcome: <concept>
-- Proof: <file/link>
-- Status: ✅ / ⚠️ / ❌
+## Fututre tasks
+finally the mr robot.ova file was downladed it was delayed due to network issues so tomorow will be doing that
