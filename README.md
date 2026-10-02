@@ -1,4 +1,4 @@
-# Daily Pentest Challenge
+# The_Operator-s_Log
 
 **Start Date:** 24 September 2026
 
