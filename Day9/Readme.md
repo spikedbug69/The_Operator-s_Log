@@ -1,5 +1,5 @@
 
-# Day 7 — Date : 30/09/26
+# Day 9 — Date : 3/10/26
 
 ## What Happened
 So nothing much happend today. Woke up got a bath and then preceded to do some minieal tasks then the 90° flip of my wrampling about not being that great and stuff happened and got depresed it's due to jelousy when everyone around you are getting successfull and reaching somewhere you are still in ur parents home with no job and career wasting your life I'm sure the day my college ends they will start bugging me around about not getting jobs or leading in life. Its not my problem AI took every job where it was easy to be hired in 2019 when u knew html css js now those are considered for cavemen so don't blame me.
