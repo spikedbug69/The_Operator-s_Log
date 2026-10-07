@@ -1,9 +1,13 @@
-# Day 12 — Date : 06/10/26
+# Day 13 — Date : 07/10/05
 
 ## What Happened
-So today as part of IEEE day we conducted a workshop for basics in cyberesecurity and it was not that enganging but we tried to manage it . Though planned to last from 9am to 1:30pm it ended around 2pm based on the feedback from the aprticipants it was intersting i guess. Tobe noteed for the readers this is me writing the log  a day after becuase  i was tired to write yeterday.this is me writing formthe class as there is a free hour now .
-
-So what happened in the workshop to be mentioned here. The session was conducted by a junior who is quite skilled in this field. I wasn't that intereted in going to this 
+Write whatever context is relevant to the day.
+This can include:
+- Personal circumstances affecting the session
+- Why the session was short or long
+- What you were planning to do
+- What changed during the day
+- Anything worth remembering later
 ---
 
 ## Objective
