@@ -1,13 +1,7 @@
-# Day 15 — Date : 08/10/26
+# Day 15 — Date : 08/10/26 Thursday
 
 ## What Happened
-Write whatever context is relevant to the day.
-This can include:
-- Personal circumstances affecting the session
-- Why the session was short or long
-- What you were planning to do
-- What changed during the day
-- Anything worth remembering later
+As mentioned yesterday Today I had my internal Lab exam for Compiler lab. Today i woke up early at 6am 
 ---
 
 ## Objective
