@@ -1,4 +1,4 @@
-# Day 12 — Date : 06/10/26
+# Day 12 — Date : 06/10/26 Tuesday
 
 ## What Happened
 So today as part of IEEE day we conducted a workshop for basics in cyberesecurity and it was not that enganging but we tried to manage it . Though planned to last from 9am to 1:30pm it ended around 2pm based on the feedback from the aprticipants it was intersting i guess. Tobe noteed for the readers this is me writing the log  a day after becuase  i was tired to write yeterday.this is me writing formthe class as there is a free hour now .
