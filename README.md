@@ -162,14 +162,27 @@ A day does **not** require an exploit. Research, networking, development, or a d
 
 | Day | Date | Entry |
 |---|---|---|
-| **Day 1** | **24 September 2026** | [❎ Day 1](./Day1/) |
-| **Day 2** | **25 September 2026** | [❎ Day 2](./Day2/) |
-| **Day 3** | **26 September 2026** | [❎ Day 3](./Day3/) |
-| **Day 4** | **27 September 2026** | [❎ Day 4](./Day4/) |
-| **Day 5** | **28 September 2026** | [❎ Day 5](./Day5/) |
-| **Day 6** | **29 September 2026** | [❎ Day 6](./Day6/) |
-| **Day 7** | **30 September 2026** | [❎ Day 7](./Day7/) |
-| **Day 8** | **1 October 2026** | [❎ Day 8](./Day8/) |
-| **Day 9** | **2 October 2026** | [❎ Day 9](./Day9/) |
-| **Day 10** | **3 October 2026** | [❎ Day 10](./Day10/) |
+| **Day 1** | **24 September 2026** | [❎ Day 1](./Day01/) |
+| **Day 2** | **25 September 2026** | [❎ Day 2](./Day02/) |
+| **Day 3** | **26 September 2026** | [❎ Day 3](./Day03/) |
+| **Day 4** | **27 September 2026** | [❎ Day 4](./Day04/) |
+| **Day 5** | **28 September 2026** | [❎ Day 5](./Day05/) |
+| **Day 6** | **29 September 2026** | [❎ Day 6](./Day06/) |
+| **Day 7** | **30 September 2026** | [❎ Day 7](./Day07/) |
+---
+Had crisis so took break
+---
+| **Day 8** | **2 October 2026** | [❎ Day 8](./Day08/) |
+| **Day 9** | **3 October 2026** | [❎ Day 9](./Day09/) |
+| **Day 10** | **4 October 2026** | [❎ Day 10](./Day10/) |
+| **Day 11** | **5 October 2026** | [❎ Day 11](./Day11/) |
+| **Day 12** | **6 October 2026** | [❎ Day 12](./Day12/) |
+| **Day 13** | **7 October 2026** | [❎ Day 13](./Day13/) |
+| **Day 14** | **8 October 2026** | [❎ Day 14](./Day14/) |
+| **Day 15** | **9 October 2026** | [❎ Day 15](./Day15/) |
+| **Day 16** | **10 October 2026** | [❎ Day 16](./Day16/) |
+| **Day 17** | **11 October 2026** | [❎ Day 17](./Day17/) |
+| **Day 18** | **12 October 2026** | [❎ Day 18](./Day18/) |
+| **Day 19** | **13 October 2026** | [❎ Day 19](./Day19/) |
+| **Day 20** | **14 October 2026** | [❎ Day 20](./Day20/) |
 
