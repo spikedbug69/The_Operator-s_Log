@@ -39,6 +39,6 @@ So as told before, if not then we had a project prention on this day as part of 
 
 We are a 4 member team I talked about our objectives and problem definition. Now what were the remarks on the is event based what our faculty told we had improved on describing about the proeject (*will tell what the project is later*) 
 
-**Now thats all for today**
+**Thats all for today**
 
 
