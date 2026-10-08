@@ -160,6 +160,8 @@ A day does **not** require an exploit. Research, networking, development, or a d
 
 ## Start
 
+## Start
+
 | Day | Date | Entry |
 |---|---|---|
 | **Day 1** | **24 September 2026** | [❎ Day 1](./Day01/) |
@@ -169,9 +171,7 @@ A day does **not** require an exploit. Research, networking, development, or a d
 | **Day 5** | **28 September 2026** | [❎ Day 5](./Day05/) |
 | **Day 6** | **29 September 2026** | [❎ Day 6](./Day06/) |
 | **Day 7** | **30 September 2026** | [❎ Day 7](./Day07/) |
----
-Had crisis so took break
----
+| **Break** | **1 October 2026** | **Had crisis so took break** |
 | **Day 8** | **2 October 2026** | [❎ Day 8](./Day08/) |
 | **Day 9** | **3 October 2026** | [❎ Day 9](./Day09/) |
 | **Day 10** | **4 October 2026** | [❎ Day 10](./Day10/) |
