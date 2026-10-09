@@ -20,7 +20,10 @@ I wrote the calculator code in c and did the execution but didnt show that to th
 
 ### Final Realization
 
-F
+So What i did is not something to be done in an exam and is not ethical so need to do few things next time 
+
+- Learn the programs properly
+- perform no things like this 
 
 
 
