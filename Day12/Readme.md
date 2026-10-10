@@ -35,7 +35,7 @@ this was my 1st time doing pentesting on appsec and it was good leared abit abou
 ---
 
 ## Tools Used
-- Gidra
+- Ghidra
 - apk2url
 ---
 

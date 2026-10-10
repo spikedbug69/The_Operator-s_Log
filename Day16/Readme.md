@@ -1,13 +1,12 @@
-# Day X — Date : DD/MM/YY
+# Day 16 — Date : 10/10/26 Saturday
 
 ## What Happened
-Write whatever context is relevant to the day.
-This can include:
-- Personal circumstances affecting the session
-- Why the session was short or long
-- What you were planning to do
-- What changed during the day
-- Anything worth remembering later
+This is one of the days when i  think what to write there is not much to write and many things to do but blocked by many reasons:
+1. Procastination
+2. Internet Blockage or Fluctuation
+3. Lack of motivation
+
+So there was a huge Storm yesterday actually rain yesterday evening which lead to power cuts and many other problems. So due to that my Home wifi was down this morning and fluctuating still. So the whole day i opened my laptop twiceone was to play the game Kingdomcom Deliverence 2 and other was now to just shyt post
 ---
 
 ## Objective
