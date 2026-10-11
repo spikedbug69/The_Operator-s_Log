@@ -30,7 +30,7 @@ So we get to choose 2 Elective in this semester
 
 The program elective i chose was *' Security in Computing '* even though its a theory subject for cyber it may be intersting. But due to not being enough students wanted 20+ but only there were 10 or smtn students for it so it became void and we could only choose this and this is shit just nothing i learnt close to nothing wrote the things i Knew. the 1st module was basics of cloud and the 2nd module was on VM which is something i constantly use so that part i wrote based on my own knowledge and look what i got i got a 80% on the test with my knowledge
 
-Now the only tough or intersting subject this smester is The open elective **Bio-Medical Engineering**. Now after the result of the 1st internal i was shocked as there was none who got 80% or above there were only 4 people who got in the rage of 60-71% in the class so that was somthig i didnt expect, i was one of them btw. So this subejct is m
+Now the only tough or intersting subject this smester is The open elective **Bio-Medical Engineering**. Now after the result of the 1st internal i was shocked as there was none who got 80% or above there were only 4 people who got in the rage of 60-71% in the class so that was somthig i didnt expect, i was one of them btw. So this subejct is more afraid of. I selected this because the other options weren't that intertsing but this is the toughest one among them probably so its fun playing with fire
 ---
 
 ## What I Learned
