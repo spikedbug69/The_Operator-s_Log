@@ -185,4 +185,6 @@ A day does **not** require an exploit. Research, networking, development, or a d
 | **Day 18** | **12 October 2026** | [❎ Day 18](./Day18/) |
 | **Day 19** | **13 October 2026** | [❎ Day 19](./Day19/) |
 | **Day 20** | **14 October 2026** | [❎ Day 20](./Day20/) |
+| **Day 21** | **15 October 2026** | [❎ Day 21](./Day21/) |
+| **Day 22** | **16 October 2026** | [❎ Day 22](./Day22/) |
 
