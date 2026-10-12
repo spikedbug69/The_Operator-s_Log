@@ -1,4 +1,4 @@
-# Day X — Date : DD/MM/YY
+# Day 18 — Date : 12/10/26 Monday
 
 ## What Happened
 Write whatever context is relevant to the day.
