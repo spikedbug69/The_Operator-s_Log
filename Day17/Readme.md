@@ -1,13 +1,14 @@
 # Day 17 — Date : 11/10/26 Sunday
 
 ## What Happened
-Write whatever context is relevant to the day.
-This can include:
-- Personal circumstances affecting the session
-- Why the session was short or long
-- What you were planning to do
-- What changed during the day
-- Anything worth remembering later
+This Sunday was a soemthing i thought would be the most hectic and work to be done
+Why ? : 
+1. There is exam for the next two days
+2. I applied for an intern possition in a companny and they gave me a work to do
+3. Have a workshop 
+4. Have an interview to take for the Vulnerablity Cheker website Documentation team 
+
+So the among thinsg were supposed to happen today but excpt for me studying for tommorows exam nothing 
 ---
 
 ## Objective
