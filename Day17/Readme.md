@@ -8,65 +8,11 @@ Why ? :
 3. Have a workshop 
 4. Have an interview to take for the Vulnerablity Cheker website Documentation team 
 
-So the among thinsg were supposed to happen today but excpt for me studying for tommorows exam nothing 
+So the among things were supposed to happen today but excpt for me studying for tommorow's exam nothing.
+there was aworkshop scheduled yesterday but it was reschduled to today and i didnt attend it because of the exam tmrw. My family were out the whole day went to relatives because of a family gathering but i didnt attend it because i told i had to study so was at *Home Alone* the whole day. and should i say I procrastinated the whole day. Started studying for the test at eveing 6pm evening. As far as i have learnt it seems fine and evrything is good and the subject seems fine. 
+
+So there is 2 Exams tommorow AI and ISE only learnt AI cuz ISE is a non credit paper which i learn the last minute and geting good marks in it wouldn't make a differnce from a just pass as it is a non credit paper Hope the exam is good
+
+Not writing much As i have manythings to check befor e sleeping 
 ---
 
-## Objective
-What did I intend to do today?
----
-
-## What I Did
-Describe what actually happened.
-Include:
-- Commands
-- Experiments
-- Labs
-- Things you tried
-- Things that worked
-- Things that didn't work
-- Links to useful resources
----
-
-## What I Learned
-What did I actually learn or reinforce today?
-This can be something completely new or simply a better understanding of something you already knew.
----
-
-## Tools Used
-- Nmap
-- Nxc
-- Burp Suite
----
-
-## Challenges
-What got in the way?
-This can include:
-- Technical problems
-- Lack of time
-- Lack of understanding
-- Failed approaches
-- External circumstances
-
----
-
-## Proof of Concept
-Screenshots, scan results, code, files, commands, reports, etc.
----
-
-## Resources
-- [Resource name](link)
-- [Resource name](link)
----
-
-## Metrics
-- **Time spent:** XX minutes
-- **Task:** Complete / Attempted
-- **Learning:** <what was learned>
-- **Proof:** <file/link>
-- **Status:** ✅ Complete / ⚠️ Incomplete / ❌ Missed
-
-## Fututre tasks
-- this is for occassions whaer you plan to do a certain task for the next day
-- may be project work
-- research 
-- learning
