@@ -17,10 +17,10 @@ I did nothing porductive today even though I'm having an exam (2nd Iternal Exam)
 This semester the subjects I have are just bunch of crap no offense on saying that I'm no intelectual or TechGeek or even some genius. So let me explain
 There are 4 subjects this semster 
 
-1. Artifitial Inteligence
-2. Industry Safety 
-3. Cloud Computing
-4. Bio-Medical Engineering
+1. Artifitial Inteligence (AI)
+2. Industry Safety Engineering (ISE)
+3. Cloud Computing (CC)
+4. Bio-Medical Engineering 
 
 After hearing this you would think what is this AssHole saying AI is crap its something everyone wants to know. But the course is older scheme 2019 to be specific so anything after that is not being taught fuck the latest thing taught might be Kasparo the fucking chess bot and its all theory no practical no coding just that. If the reader is someone into tech you might know the current AI revolution started in 2022 when **OpenAI** brought their product to a reality none of that is in this the latest are Agenitic AI not Generative AI being taught. Fucking Backwards. I didnt study much still got a 60% in my 1st Internal, i was expecting that much. 
 
