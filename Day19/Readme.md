@@ -1,71 +1,14 @@
 # Day 19 — Date : 13/10/26 Tuesday
 
 ## What Happened
-Write whatever context is relevant to the day.
-This can include:
-- Personal circumstances affecting the session
-- Why the session was short or long
-- What you were planning to do
-- What changed during the day
-- Anything worth remembering later
----
+This was the 2nd Day of my 2nd Series exam (Internal Exams ). Today I had CC and Bio-medical Instrumentation (BMI). 
 
-## Objective
-What did I intend to do today?
----
+As told Yeasterday I learnt CC at night the 3rd and 4th module even though 4th not that much just read it. gave more ephasis on 3rd module.The exam was fine not that hard as expected. I wrote what i know of and also wrote things I know alreday even though i didnt learn it for this. Its pretty much gneral knowldge things in people of my field. Hope the correction is good and fine by me as the 1st series marks for CC was good so i dont mind is this is okish.
 
-## What I Did
-Describe what actually happened.
-Include:
-- Commands
-- Experiments
-- Labs
-- Things you tried
-- Things that worked
-- Things that didn't work
-- Links to useful resources
----
+After exams I started learninng for the next exam which was BMI. I knew no shyt about it. but as i got 60% in last exam i was fine with just 40%in this exam to get a good marks in internals so studied accordingly as much as possible with the linited time in the lunch break as usual adn i believe i was bale to write pretty much. Dk how the marks will turn out. Hope its ok
 
-## What I Learned
-What did I actually learn or reinforce today?
-This can be something completely new or simply a better understanding of something you already knew.
----
+Now were told earlier that we wouldnt have classes tmrw as we final years only have 4 subjects and juniors have 6 subjects we only take 2 days where as it will take them 3 (2 papers per day). but unfortunately teachers want to finish concepst so they told to come and have to go tmrw what to do now other than ging tmrw 
 
-## Tools Used
-- Nmap
-- Nxc
-- Burp Suite
----
-
-## Challenges
-What got in the way?
-This can include:
-- Technical problems
-- Lack of time
-- Lack of understanding
-- Failed approaches
-- External circumstances
+there is much is to say tmrw lets talk later 
 
 ---
-
-## Proof of Concept
-Screenshots, scan results, code, files, commands, reports, etc.
----
-
-## Resources
-- [Resource name](link)
-- [Resource name](link)
----
-
-## Metrics
-- **Time spent:** XX minutes
-- **Task:** Complete / Attempted
-- **Learning:** <what was learned>
-- **Proof:** <file/link>
-- **Status:** ✅ Complete / ⚠️ Incomplete / ❌ Missed
-
-## Fututre tasks
-- this is for occassions whaer you plan to do a certain task for the next day
-- may be project work
-- research 
-- learning
