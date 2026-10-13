@@ -1,71 +1,14 @@
 # Day 18 — Date : 12/10/26 Monday
 
 ## What Happened
-Write whatever context is relevant to the day.
-This can include:
-- Personal circumstances affecting the session
-- Why the session was short or long
-- What you were planning to do
-- What changed during the day
-- Anything worth remembering later
----
+So what to say about today I had 2 exams which were AI and ISE. Man i have changed my mind in about ai in this i was really overconfident there were manything i got completely wrong hope my faculty provides some liberty in correction. I fumbled a bit and got many things opposite so.....
 
-## Objective
-What did I intend to do today?
----
+Anyway now i hope it reaches atleast a 40% which is the pass mark and which would save me from having a bad internals after looking into the other exam and things like attendance and assignment. If not then I'm Really screwd. Don't want to get an areer at the last year of my course after maintaining this much. So mu current cgpa is 7.39 which is not that great I'm just an average student so thats all i expect its fine. so this sem i need atleast an 8 sgpa to get the cgpa to reach 7.5+ and so i need to focus more on the semster exam now. 
 
-## What I Did
-Describe what actually happened.
-Include:
-- Commands
-- Experiments
-- Labs
-- Things you tried
-- Things that worked
-- Things that didn't work
-- Links to useful resources
----
+The ISE paper was as expected just fine. staterted learning it at 12pm and wrote accroding to wht i read. Though it was better that th emorning paper. The morning paper ruined my mood of the day. I t was my mistke of not looking into it properly even after getting ample amout of time to learn.
 
-## What I Learned
-What did I actually learn or reinforce today?
-This can be something completely new or simply a better understanding of something you already knew.
----
+So then at night started learning the Cloud computing the paper for tomorrow. I the 4th module is on cloud security which talks on cybersecuirty whic is my jam so no extra effort in that. What i ddi to learn this is to watch vdos on these lecture and also skim the whole concepts as for the 3rd module I know the concepts so just need to know its meaning the contenst of it was sromthing which will come evenrtually while writing 
 
-## Tools Used
-- Nmap
-- Nxc
-- Burp Suite
----
-
-## Challenges
-What got in the way?
-This can include:
-- Technical problems
-- Lack of time
-- Lack of understanding
-- Failed approaches
-- External circumstances
+Thats all for today, I'm going to revise and learn then sleep
 
 ---
-
-## Proof of Concept
-Screenshots, scan results, code, files, commands, reports, etc.
----
-
-## Resources
-- [Resource name](link)
-- [Resource name](link)
----
-
-## Metrics
-- **Time spent:** XX minutes
-- **Task:** Complete / Attempted
-- **Learning:** <what was learned>
-- **Proof:** <file/link>
-- **Status:** ✅ Complete / ⚠️ Incomplete / ❌ Missed
-
-## Fututre tasks
-- this is for occassions whaer you plan to do a certain task for the next day
-- may be project work
-- research 
-- learning
